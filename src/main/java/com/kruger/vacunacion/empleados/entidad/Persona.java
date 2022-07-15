@@ -13,7 +13,10 @@ public class Persona {
     private String externalCode;
     private String color;
     private String shortName;
-    private String description;
-    private String dataType;
-    private String registerUser;
+    private String jhon;
+    private String test1;
+    private String test2;
+    private String enrique;
+
+
 }
